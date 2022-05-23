@@ -96,7 +96,7 @@ There is no user interface for adding wildcard HTTP redirects for IIS 7. For exa
 
         - On the taskbar, click **Start**, and then click **Control Panel**.
         - Double-click **Administrative Tools**, and then double-click **Internet Information Services (IIS) Manager**.
-2. In the **Connections** pane, expand the server name, expand **Sites**, and then navigate to the Web site or application that you want to configure custom error pages for.
+2. In the **Connections** pane, expand the server name, expand **Sites**, and then navigate to the Web site or application that you want to configure redirect for.
 3. In the **Home** pane, double-click **HTTP Redirect**.  
     [![Screenshot of the Home pane. The H T T P Redirect icon is highlighted and selected.](index/_static/image10.png)](index/_static/image9.png)
 4. In the **HTTP Redirect** pane, check the box to redirect requests and enter the destination URL.  
